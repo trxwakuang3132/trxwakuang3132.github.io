@@ -4,12 +4,12 @@ self.__precacheManifest = [
     "url": "/static/media/DUALITY_.a0521ea0.ttf"
   },
   {
-    "revision": "ee47a1b624a560d9e4ce",
+    "revision": "9af9321c3818d7358630",
     "url": "/static/css/main.5c74df3c.chunk.css"
   },
   {
-    "revision": "b1da38224deafa236246",
-    "url": "/static/js/1.b1da3822.chunk.js"
+    "revision": "8af1ed420399967689c9",
+    "url": "/static/js/1.8af1ed42.chunk.js"
   },
   {
     "revision": "229c360febb4351a89df",
@@ -40,8 +40,8 @@ self.__precacheManifest = [
     "url": "/static/media/sky.942c3d51.png"
   },
   {
-    "revision": "ee47a1b624a560d9e4ce",
-    "url": "/static/js/main.ee47a1b6.chunk.js"
+    "revision": "9af9321c3818d7358630",
+    "url": "/static/js/main.9af9321c.chunk.js"
   },
   {
     "revision": "2b48e20fa81187060f8633344b3b510c",
@@ -80,7 +80,7 @@ self.__precacheManifest = [
     "url": "/static/media/panel.89c26ccd.png"
   },
   {
-    "revision": "0432b37c774e80128cd2d7c5d56c4c29",
+    "revision": "c20f1a02e2619619ae84aab7fcc6e654",
     "url": "/index.html"
   }
 ];
