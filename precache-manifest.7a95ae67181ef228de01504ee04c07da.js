@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/static/media/DUALITY_.a0521ea0.ttf"
   },
   {
-    "revision": "9af9321c3818d7358630",
+    "revision": "aefbde3d329edab6004b",
     "url": "/static/css/main.5c74df3c.chunk.css"
   },
   {
@@ -32,16 +32,16 @@ self.__precacheManifest = [
     "url": "/static/media/ground.97d28594.png"
   },
   {
-    "revision": "942c3d51f2b1ff3781aa41360d1d7182",
-    "url": "/static/media/sky.942c3d51.png"
-  },
-  {
     "revision": "9f9ceca581a77648a2e8a2facdc5c49c",
     "url": "/static/media/soil.9f9ceca5.png"
   },
   {
-    "revision": "9af9321c3818d7358630",
-    "url": "/static/js/main.9af9321c.chunk.js"
+    "revision": "942c3d51f2b1ff3781aa41360d1d7182",
+    "url": "/static/media/sky.942c3d51.png"
+  },
+  {
+    "revision": "aefbde3d329edab6004b",
+    "url": "/static/js/main.aefbde3d.chunk.js"
   },
   {
     "revision": "2b48e20fa81187060f8633344b3b510c",
@@ -80,7 +80,7 @@ self.__precacheManifest = [
     "url": "/static/media/panel.89c26ccd.png"
   },
   {
-    "revision": "c20f1a02e2619619ae84aab7fcc6e654",
+    "revision": "3f07bd9eae796f67da0ad1ce07bab222",
     "url": "/index.html"
   }
 ];
